@@ -5,19 +5,19 @@
 > 把 B 站视频/多P合集链接丢进来 → 自动生成带时间戳的 Markdown 笔记 → 按分类自动归档到知识库。一键 Fork 配置你自己的免费 Key，剩下的全自动完成。
 
 <p align="center">
-  <a href="https://github.com/DiTingAI/diting-ai-bilibili-video-to-text-notes/stargazers">
-    <img src="https://img.shields.io/github/stars/DiTingAI/diting-ai-bilibili-video-to-text-notes?style=social" alt="GitHub Stars">
+  <a href="https://github.com/xachangwei/diting-ai-bilibili-video-to-text-notes/stargazers">
+    <img src="https://img.shields.io/github/stars/xachangwei/diting-ai-bilibili-video-to-text-notes?style=social" alt="GitHub Stars">
   </a>
   &nbsp;
   <a href="https://diting.cc">
     <img src="https://img.shields.io/badge/🚀-diting.cc_免费体验-ff6b6b?style=flat-square" alt="diting.cc">
   </a>
   &nbsp;
-  <a href="https://github.com/DiTingAI/diting-ai-bilibili-video-to-text-notes/issues/new?template=%F0%9F%8E%AF_request_lecture_notes.md">
+  <a href="https://github.com/xachangwei/diting-ai-bilibili-video-to-text-notes/issues/new?template=%F0%9F%8E%AF_request_lecture_notes.md">
     <img src="https://img.shields.io/badge/📝-提交Issue试用-blue?style=flat-square" alt="提交Issue试用">
   </a>
   &nbsp;
-  <a href="https://github.com/DiTingAI/diting-ai-bilibili-video-to-text-notes/fork">
+  <a href="https://github.com/xachangwei/diting-ai-bilibili-video-to-text-notes/fork">
     <img src="https://img.shields.io/badge/🍴-Fork_即用-blue?style=flat-square" alt="Fork 即用">
   </a>
 </p>
@@ -78,7 +78,7 @@
 
 - 📂 分类数：**2**
 - 📄 笔记总数：**53**
-- 🕐 最后更新：**2026-06-15 03:22**
+- 🕐 最后更新：**2026-06-23 22:08**
 
 ---
 
@@ -239,17 +239,17 @@ export DITING_VERIFY_SSL="true"
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiTingAI/diting-ai-bilibili-video-to-text-notes/stargazers">
+  <a href="https://github.com/xachangwei/diting-ai-bilibili-video-to-text-notes/stargazers">
     <img src="./assets/star_action.png" alt="点 Star 支持" width="400"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiTingAI/diting-ai-bilibili-video-to-text-notes/stargazers">
-    <img src="https://img.shields.io/github/stars/DiTingAI/diting-ai-bilibili-video-to-text-notes?style=social" alt="GitHub Stars">
+  <a href="https://github.com/xachangwei/diting-ai-bilibili-video-to-text-notes/stargazers">
+    <img src="https://img.shields.io/github/stars/xachangwei/diting-ai-bilibili-video-to-text-notes?style=social" alt="GitHub Stars">
   </a>
 </p>
 
 <p align="center">
-  <sub>🤖 本 README 由 <code>scripts/build_seo_readme.py</code> 全自动生成 | 最后更新: 2026-06-15 03:22</sub>
+  <sub>🤖 本 README 由 <code>scripts/build_seo_readme.py</code> 全自动生成 | 最后更新: 2026-06-23 22:08</sub>
 </p>
